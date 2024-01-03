@@ -1,5 +1,5 @@
 deno (1.39.1) UNRELEASED; urgency=medium
 
-  * Initial deb packaging of deno.
+  * Initial release (Closes: 961337)
 
  -- Razzi Abuissa <razzi@abuissa.net>  Thu, 28 Dec 2023 07:15:01 -0600

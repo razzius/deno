@@ -1,0 +1,12 @@
+Source: deno
+Maintainer: Razzi Abuissa <razzi@abuissa.net>
+Section: javascript
+Priority: optional
+Standards-Version: 4.6.2
+Build-Depends: debhelper-compat (= 13)
+
+Package: deno
+Architecture: any
+Depends:
+Description: deno JavaScript runtime
+ deno is a secure JavaScript, TypeScript, and WebAssembly runtime.
